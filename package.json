@@ -2,7 +2,7 @@
   "name": "miportafolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://florennunez.github.io/portafolioreact",
+  "homepage": "https://florennunez.github.io/portafolioreact",
   "type": "module",
   "scripts": {
     "dev": "vite",
