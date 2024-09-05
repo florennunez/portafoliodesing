@@ -20,7 +20,6 @@ const Footer = () => {
         <div className='flex-row  space-x-4 w-full'>
         <h2 className='text-[22px] font-semibold text-fuchsia-800 py-2 uppercase'>Seguime</h2>
         <div className="flex gap-5 !ml-0 justify-center">
-
           <a className="text-white hover:text-fuchsia-800 transition duration-150 ease-in-out" href="">
             <FaGithub/>
           </a>
