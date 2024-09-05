@@ -19,8 +19,7 @@ return (
         <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'>
         <h1 data-aos="fade-right" className="text-[52px] font-Semibold mb-8 leading-normal uppercase">Mi <span className='text-fuchsia-500'>portfolio</span></h1>
         <p data-aos="fade-left">
-        Hola, soy Florencia Nuñez me desempeño en area de Innovacion y tecnologia me encuentro cursando el ultimo año de Diseño y Programacion Web, me desenvuelvo en soluciones digitales, tambien trabajo con herramientas de diseño.
-        
+        Hola, me desempeño como técnica informática y estudio Diseño y Desarrollo Web, me desenvuelvo en soluciones digitales, tambien trabajo con herramientas de diseño. Mi objetivo es desarrollarme como programadora Front-end, me defino como persona creativa con facilidad para idear y definir.        
         </p>
         <div className='flex mt-8 gap-2'>
             <div className='flx item-center justify-center'>
