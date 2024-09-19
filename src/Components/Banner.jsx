@@ -19,7 +19,7 @@ return (
         <div className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'>
         <h1 data-aos="fade-right" className="text-[52px] font-Semibold mb-8 leading-normal uppercase">Mi <span className='text-fuchsia-500'>portfolio</span></h1>
         <p data-aos="fade-left">
-        Me desempeño en el área de Innovación y Tecnología, y actualmente estoy cursando el último año de Diseño y Programación Web. Me especializo en ofrecer soluciones digitales y también tengo experiencia trabajando con diversas herramientas de diseño.       
+        Me desempeño en el área de Innovación y Tecnología, y actualmente estoy cursando el último año de Diseño y Programación Web. Me especializo en ofrecer soluciones digitales y también tengo experiencia trabajando con diversas herramientas de diseño. Te invito a saber mas de mi :)       
         </p>
         <div className='flex mt-8 gap-2'>
             <div className='flx item-center justify-center'>
