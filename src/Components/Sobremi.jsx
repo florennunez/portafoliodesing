@@ -25,8 +25,9 @@ const Sobremi = () => {
       <img data-aos="fade-down" src={img} width={290} height={290} className="rounded border-2 p-1 border-fuchsia-500 img_glow" alt="" />
       <div data-aos="fade-right" className='h-full lg:py-40 flex flex-col justify-center lg:items-start items-center text-white'>
         <h1 className="text-[52px] font-Semibold mb-4 leading-normal text-fuchsia-500 uppercase">Sobre mi</h1>
-        <p data-aos="fade-left">Me encuentro trabajando de manera independiente para comercios o emprendimientos locales, me comunico con clientes/usuarios. Aplico los conceptos basicos de UX para una experiencia optimizada.
-          Poseer experiencia en lenguajes de programacion como js y php me ayudan a determinar ideas y soluciones, soy detallista con gran pasion por el diseño y gran capacidad de analisis.</p>
+        <p data-aos="fade-left">Actualmente, trabajo en una secretaría, donde me encargo de tomar requerimientos y proponer ideas para aplicaciones internas. Al mismo tiempo, realizo trabajos freelance que me permiten explorar mi pasión por el diseño y la tecnología.
+        Soy muy dada a la maquetación y me especializo en la creación de interfaces de usuario (UI), buscando siempre un equilibrio entre funcionalidad y estética. Mi experiencia en lenguajes de programación como JavaScript me permite transformar ideas en soluciones prácticas. La combinación de mi capacidad de análisis y mi inquietud creativa me impulsa a seguir mejorando en cada proyecto que realizo.
+        </p>
         <div className='flex mt-8 gap-2'>
           <div className='flx item-center justify-center'>
             <div className='flex space-x-2'>
