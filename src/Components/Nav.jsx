@@ -21,12 +21,9 @@ const Nav = () => {
         <Link spy={true} smooth={true} to="Services">
           <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Servicios</li>
         </Link>
-        <Link spy={true} smooth={true} to="Proyectos">
+        <Link spy={true} smooth={true} to="Projects">
           <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Proyectos</li>
         </Link>
-        <Link spy={true} smooth={true} to="Contactame">
-          <li className='my-4 py-4 border-b border-slate-800 hover:bg-slate-800 hover:rounded'>Contactame</li>
-      </Link>
     </ul>
   </div>
   </>
@@ -51,11 +48,8 @@ const Nav = () => {
           <li className="hover:text-fuchsia-600 transition border-b-2 border-slate-900 hover:border-fuchsia-600 cursor-pointer">Services</li>
           </Link>
         
-          <Link spy={true} smooth={true} to="Proyectos">
+          <Link spy={true} smooth={true} to="Projects">
           <li className="hover:text-fuchsia-600 transition border-b-2 border-slate-900 hover:border-fuchsia-600 cursor-pointer">Proyectos</li>
-          </Link>
-          <Link spy={true} smooth={true} to="Contactame">
-          <li className="hover:text-fuchsia-600 transition border-b-2 border-slate-900 hover:border-fuchsia-600 cursor-pointer">Contactame</li>
           </Link>
         </ul>
       </div>
