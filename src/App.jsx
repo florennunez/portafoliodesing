@@ -4,7 +4,6 @@ import Banner from './Components/Banner.jsx'
 import Sobremi from './Components/Sobremi.jsx'
 import Services from './Components/Services.jsx'
 import Projects from './Components/Projects.jsx'
-import Contact from './Components/Contact.jsx'
 import Footer from './Components/Footer.jsx'
 import { DNA } from 'react-loader-spinner'
 import './styles.css'
@@ -40,7 +39,6 @@ return (
                 <Sobremi/>
                 <Services/>
                 <Projects/>
-                <Contact/>
                 <Footer/>
           </div>
           }
